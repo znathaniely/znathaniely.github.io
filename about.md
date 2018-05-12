@@ -3,7 +3,7 @@
     <title>ABOUT</title>
   </head>
 <body>
-  <h1>zaq kant qode</h1>
+  <h1>y zaq kant qode</h1>
   
   
     <h3><b>site menu</b></h3>
