@@ -3,7 +3,7 @@
 	<title>HOME</title>
 </head>
 <body>
-	<h1>znathaniely.github.io</h1>
+	<h1>zaq kant qode</h1>
 	
 	<h3><b>site menu</b></h3>
 	<h4><a href="index.html">HOME</a></h4>
