@@ -13,7 +13,7 @@
 			<ul>username.github.io</ul>
 		</li>	
 		
-		<h2>common git commands</h2>
+		<h4>common git commands</h4>
 		<p># 1. BASIC GIT WORKFLOW
 
 **git init**
