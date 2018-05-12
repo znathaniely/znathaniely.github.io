@@ -20,6 +20,6 @@
 			<ol>git add --all</ol>
 			<ol>git commit -m "<i>type a short reference summary here</i>"</ol>
 			<ol>git push origin master</ol>	
-	<h4>thanks to github for hosting this static website</h4>
+	<h2>thanks to github for hosting this static website</h2>
 </body>
 </html>
