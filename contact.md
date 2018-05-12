@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>contaqt</title>
+    <title>CONTACT</title>
   </head>
 <body>
   <h1>zaq kant qode</h1>
