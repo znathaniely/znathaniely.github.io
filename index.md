@@ -9,20 +9,20 @@
 
 <h4>site deployment with github pages</h4>
 <li>
-<ul>site: github pages supports static site hosting w/ github pages</ul>
-<ul>static vs dynamic: static is written in html, dynamic is often written a server backend language like php (for example)</ul>
-<ul>deployment: origin &gt; master</ul>
-<ul>github pages: free web hosting service w/ github account</ul>
-<ul>username.github.io</ul>
+<ol>site: github pages supports static site hosting w/ github pages</ol>
+<ol>static vs dynamic: static is written in html, dynamic is often written a server backend language like php (for example)</ol>
+<ol>deployment: origin &gt; master</ol>
+<ol>github pages: free web hosting service w/ github account</ol>
+<ol>username.github.io</ol>
 </li>	
 
 <h4>common git commands</h4>
 <li>
-<ul>git add --all</ul>
-<ul>git commit -m "message"</ul>
-<ul>git push origin master"</ul>
-<ul>git fetch origin master</ul>
-<ul>git pull origin master</ul>
+<ol>git add --all</ol>
+<ol>git commit -m "message"</ol>
+<ol>git push origin master"</ol>
+<ol>git fetch origin master</ol>
+<ol>git pull origin master</ol>
 </li>
 
 <h4>index.html vs index.md</h4>
