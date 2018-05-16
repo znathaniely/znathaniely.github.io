@@ -25,5 +25,11 @@
 <ul>git pull origin master</ul>
 </li>
 
+<h4>index.html vs index.md</h4>
+<p>"markdown allows you to write using an easy-to-read plain text format, then convert it 
+to structurally valid XHTML or HTML. Thus, markdown, is two things: (1) a plain text 
+formatting syntax; and (2) a software tool, written in perl, that converts the plain 
+text formatting to HTML."</p>
+
 </body>
 </html>
