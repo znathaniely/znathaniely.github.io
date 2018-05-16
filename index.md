@@ -18,9 +18,11 @@
 
 <h4>common git commands</h4>
 <li>
-<ol>git add --all</ol>
-<ol>git commit -m "message"</ol>
-<ol>git push origin master"</ol>
+<ul>git add --all</ul>
+<ul>git commit -m "message"</ul>
+<ul>git push origin master"</ul>
+<ul>git fetch origin master</ul>
+<ul>git pull origin master</ul>
 </li>
 
 </body>
