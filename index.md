@@ -6,9 +6,6 @@
 
 <h1>index znathaniely</h1>
 <h2>site menu</h2>
-<a href="index.md">index znathaniely</a>
-<a href="about.md">about znathaniely</a>
-<a href="contact.md">contact znathaniely</a>
 
 <h4>site deployment with github pages</h4>
 <li>
