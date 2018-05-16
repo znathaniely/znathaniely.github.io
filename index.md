@@ -1,11 +1,11 @@
 <html>
 <head>
-<title>index znathaniely</title>
+<title>index.md</title>
 </head>
 <body>
 
-<h1>index znathaniely</h1>
-<h2>site menu</h2>
+<h1>index.md</h1>
+<h2>site_menu</h2>
 
 <h4>site deployment with github pages</h4>
 <li>
